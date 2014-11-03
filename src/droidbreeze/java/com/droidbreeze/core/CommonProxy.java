@@ -1,4 +1,4 @@
-package com.droidbreeze;
+package com.droidbreeze.core;
 
 public class CommonProxy 
 {

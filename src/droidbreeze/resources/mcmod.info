@@ -1,9 +1,9 @@
 [
 {
-  "modid": "droidbreeze",
-  "name": "DroidBreeze Economy",
+  "modid": "DroidBreezeCore",
+  "name": "DroidBreeze Core",
   "description": "Bring money to Minecraft, expand and control your own community or why not control an entire city/empire.",
-  "version": "1.0",
+  "version": "1.0.0",
   "mcversion": "${mcversion}",
   "url": "http://www.droidbreeze.com",
   "updateUrl": "",
